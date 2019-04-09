@@ -12,7 +12,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Professional website for Patrick Langford, Professional Educational, Child and Adolescent Psychology (DEdPsy)"
+description = "Website for Patrick Langford, Professional Educational, Child and Adolescent Psychology (DEdPsy)"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
