@@ -22,12 +22,7 @@ bio = "I am a 1st year Trainee Educational Psychology student based in London. I
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Statisitcs",
-  "Metascience",
-  "Consultation"
-  "Open Science"
-]
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
