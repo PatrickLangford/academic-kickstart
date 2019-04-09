@@ -30,7 +30,7 @@ theme = "academic"
 
 # Colour of theme
 
-color_theme = 
+color_theme = "ocean"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
