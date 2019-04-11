@@ -24,4 +24,9 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   
+[[feature]]
+  icon = "pen"
+  icon_pack = "fas"
+  name = "Writing"
+  
 +++
