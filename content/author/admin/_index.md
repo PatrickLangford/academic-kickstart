@@ -22,10 +22,10 @@ bio = "1st year Trainee Educational Psychology student at the Institute of Educa
 email = ""
 
 # List (academic) interests or hobbies
-[[interests]]
-* "Open science"
-* "Philosophy of Science"
-* "Metascience"
+# [[interests]]
+# * "Open science"
+# * "Philosophy of Science"
+# * "Metascience"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
