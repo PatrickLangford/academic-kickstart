@@ -16,13 +16,16 @@ role = "Trainee Educational Psychologist"
 organizations = [ { name = "Institute of Education, UCL", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a 1st year Trainee Educational Psychology student based in London. I am interested in providing support to children and young people aged 0-25 and their families and schools."
+bio = "1st year Trainee Educational Psychology student at the Institute of Education, UCL."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-
+[[interests]]
+* "Open science"
+* "Philosophy of Science"
+* "Metascience"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
