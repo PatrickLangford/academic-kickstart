@@ -28,6 +28,19 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * 1:1 support
+  
+  title = "Teacher"
+  company = "Hereford Sixth Form College"
+  location = Hereford
+  date_start = "2014-05-19"
+  date_end = "2016-08-31"
+  description = """
+  Responsibilities include:
+  
+  * Teacher of A-level Psychology and Health & Social Care
+  * Form tutor
+  * Leading the Psychology Club
+  * Reflecting on praxis for Qualified Teacher Learning and Skills (QTLS) qualification
   """
 
 +++
