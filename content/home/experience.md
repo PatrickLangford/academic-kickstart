@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2017-03-18"
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * 1:1 support
   
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "2014-05-19"
   date_end = "2016-08-31"
   description = """
-  Responsibilities include:
+  Responsibilities =
   
   * Teacher of A-level Psychology and Health & Social Care
   * Form tutor
