@@ -28,5 +28,13 @@ date_format = "Jan 2006"
   date_end = "2016-12-05"
   description = ""
 
-
+[[item]]
+  organization = "LinkedIn Learning"
+  organization_url = "https://www.linkedin.com/learning"
+  title = "Learning the R Tidyverse"
+  url = "https://www.linkedin.com/learning/learning-the-r-tidyverse?u=69919578"
+  certificate_url = ""
+  date_start = "2018-10-10"
+  date_end = "2019-04-11"
+  description = ""
 +++
