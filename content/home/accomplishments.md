@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Society for Education and Training"
+  organization_url = "https://set.et-foundation.co.uk/"
+  title = "Qualified Teacher Learning and Skills"
+  url = "https://set.et-foundation.co.uk/professionalism/qtls/"
+  certificate_url = ""
+  date_start = "2015-09-10"
+  date_end = "2016-06-05"
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Improving your statistical inferences"
