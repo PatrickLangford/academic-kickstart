@@ -23,8 +23,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests =  "Open science"  
-interests =  "Philosophy of Science"  
-interests =  "Metascience"
+# "Philosophy of Science"  
+# "Metascience"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
