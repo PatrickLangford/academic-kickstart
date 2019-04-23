@@ -22,7 +22,7 @@ bio = "1st year Trainee Educational Psychology student at the Institute of Educa
 email = ""
 
 # List (academic) interests or hobbies
-interests =  "Open science"  
+# interests =  "Open science"  
 # "Philosophy of Science"  
 # "Metascience"
 
