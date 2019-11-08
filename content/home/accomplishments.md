@@ -31,11 +31,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Improving your statistical inferences; Improving your statistical questions"
-  url = "https://www.coursera.org/learn/statistical-inferences; https://www.coursera.org/learn/improving-statistical-questions/home/welcome"
+  title = "Improving your statistical inferences"
+  url = "https://www.coursera.org/learn/statistical-inferences"
   certificate_url = ""
-  date_start = "2016-10-10; 2019-10-13"
-  date_end = "2016-12-05; 2019-12-02"
+  date_start = "2016-10-10"
+  date_end = "2016-12-05"
   description = ""
 
 [[item]]
