@@ -29,4 +29,9 @@ subtitle = ""
   icon_pack = "fas"
   name = "Writing"
   
+  [[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  
 +++
