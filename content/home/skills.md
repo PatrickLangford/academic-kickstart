@@ -30,8 +30,8 @@ subtitle = ""
 #  name = "Writing"
   
   [[feature]]
-  icon = "git-alt"
+  icon = "git-square"
   icon_pack = "fab"
-  name = "Git"
+  name = "Version control"
   
 +++
