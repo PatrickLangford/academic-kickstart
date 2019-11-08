@@ -24,10 +24,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   
-[[feature]]
-  icon = "pen"
-  icon_pack = "fas"
-  name = "Writing"
+#[[feature]]
+#  icon = "pen"
+#  icon_pack = "fas"
+#  name = "Writing"
   
   [[feature]]
   icon = "git-alt"
