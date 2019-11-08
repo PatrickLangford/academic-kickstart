@@ -57,4 +57,14 @@ date_format = "Jan 2006"
   date_start = "2019-11-04"
   date_end = "2019-11-05"
   description = ""
+  
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Improving your statistical questions"
+  url = "https://www.coursera.org/learn/improving-statistical-questions/home/welcome"
+  certificate_url = ""
+  date_start = "2019-10-13"
+  date_end = "2019-12-02"
+  description = ""
 +++
