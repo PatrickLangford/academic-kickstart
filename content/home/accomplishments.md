@@ -31,11 +31,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Improving your statistical inferences"
-  url = "https://www.coursera.org/learn/statistical-inferences"
+  title = "Improving your statistical inferences; Improving your statistical questions"
+  url = "https://www.coursera.org/learn/statistical-inferences; https://www.coursera.org/learn/improving-statistical-questions/home/welcome"
   certificate_url = ""
-  date_start = "2016-10-10"
-  date_end = "2016-12-05"
+  date_start = "2016-10-10; 2019-10-13"
+  date_end = "2016-12-05; 2019-12-02"
   description = ""
 
 [[item]]
@@ -46,5 +46,15 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-10"
   date_end = "2019-04-11"
+  description = ""
+  
+  [[item]]
+  organization = "Software Carpentry"
+  organization_url = "http://rits.github-pages.ucl.ac.uk/software-carpentry/"
+  title = "Bash/Git/R"
+  url = "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/"
+  certificate_url = ""
+  date_start = "2019-11-04"
+  date_end = "2019-11-05"
   description = ""
 +++
