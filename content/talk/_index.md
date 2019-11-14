@@ -12,5 +12,3 @@ view = 2
 image = ""
 caption = ""
 +++
-
-ReproducibiliTea
