@@ -32,6 +32,6 @@ subtitle = ""
   [[feature]]
   icon = "git-square"
   icon_pack = "fab"
-  name = "Version control"
+  name = "Version control and the command line"
   
 +++
